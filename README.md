@@ -1,6 +1,11 @@
 # **Oh-My-PowerShell**
 **Oh-My-PowerShell** is a customizable PowerShell configuration framework inspired by **Oh-My-Bash**. It allows users to easily manage their PowerShell environment, load plugins, aliases, themes, and more, through a simple configuration.
 
+Modder’s Note:  
+This project is shared with the spirit of openness and collaboration in mind. You are free to modify, adapt, and share your version of this work. All we ask is that you kindly credit the original project and its creators when using or distributing your modified version. Let’s keep the cycle of creativity and respect alive!  
+
+## Original Creators: Nix & Lexx  
+
 ## Features
 
 - **Modular Configuration**: Customize your PowerShell environment by loading various plugins, themes, and settings.
